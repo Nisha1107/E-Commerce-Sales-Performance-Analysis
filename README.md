@@ -15,7 +15,12 @@ Tools & Technologies:
 Project Structure:
 
 ├── ecommerce_sales.csv
-├── ecommerce_sales_cleaned.csv
+
+
 ├── E_Commerce_Sales_Analysis.ipynb
+
+
 ├── PowerBI_Dashboard.pbix
+
+
 ├── README.md
